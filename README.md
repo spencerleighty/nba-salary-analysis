@@ -45,7 +45,7 @@ Built and compared:
 
 ![Correlation Heatmap](images/heatmap.png)
 ![Feature Importance](images/feature_importance.png)
-
+![Model Comparison](images/model_comparison.png)
 ## Takeaways
 - Salary prediction benefits from both statistical and machine learning approaches
 - Data preprocessing plays a critical role in model performance
