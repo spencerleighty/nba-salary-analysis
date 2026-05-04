@@ -42,9 +42,11 @@ Built and compared:
 - Tree-based models captured non-linear relationships better than linear models
 
 ## Visualizations
-
+# Correlation Heatmanp
 ![Correlation Heatmap](images/heatmap.png)
+# Feature Importance
 ![Feature Importance](images/feature_importance.png)
+# Model Comparison
 ![Model Comparison](images/model_comparison.png)
 ## Takeaways
 - Salary prediction benefits from both statistical and machine learning approaches
