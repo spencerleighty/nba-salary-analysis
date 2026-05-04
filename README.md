@@ -39,7 +39,7 @@ Built and compared:
 ## Key Findings
 - Minutes played, points, turnovers, and age were strong predictors of salary
 - Log transformation improved model performance significantly
-- Tree-based models captured non-linear relationships better than linear models
+- Tree-based models captured variable relationships better than linear models
 
 ## Visualizations
 ### Correlation Heatmanp
